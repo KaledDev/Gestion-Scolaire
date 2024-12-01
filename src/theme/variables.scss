@@ -1,2 +1,6 @@
 // For information on how to create your own theme, please see:
 // http://ionicframework.com/docs/theming/
+:root {
+    --ion-color-primary: #098f6f; // Si tu veux que toute la couleur "primary" devienne #7C6A46// Couleur des onglets non actifs
+    --ion-tab-bar-selected-color: #046850; // Couleur de l'onglet actif
+  }
